@@ -9,7 +9,7 @@
 
 **`Programador`**
 
-Me chamo Davi de Andrade Cavalcante, tenho 18 anos e eu nasci e moro no Rio de Janeiro. Concluí o ensino médio na CE Vicente Jannuzzi. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESA (Universidade Estacio de Sá). Sou apaixonado por tecnologia e compartilho alguns dos meus conhecimentos através do meu Linkedin "[Davi Cavalcante](www.linkedin.com/in/devdavicavalcante)".
+Me chamo Davi de Andrade Cavalcante, tenho 18 anos e eu nasci e moro no Rio de Janeiro. Concluí o ensino médio na CE Vicente Jannuzzi. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNESA (Universidade Estacio de Sá). Sou apaixonado por tecnologia e compartilho alguns dos meus conhecimentos através do meu Linkedin "[Davi Cavalcante](https://www.linkedin.com/in/devdavicavalcante/)".
 
 <a href="https://github.com/devdavicavalcante?tab=repositories&sort=stargazers">
         <img 
