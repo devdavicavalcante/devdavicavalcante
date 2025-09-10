@@ -3,7 +3,7 @@
 - 🔭 Estou em busca da minha primeira oportunidade de emprego
 - 🌱 Estou aprendendo: HTML, CSS, JS, Python.
 - 📫 Contate-me no e-mail: davimelhor2007@gmail.com
-- 😄 Pronouns: ele/dele or he/him
+- 😄 Pronomes: ele/dele or he/him
 
 # 🧑🏼‍💻 Davi Cavalcante
 
