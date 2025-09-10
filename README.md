@@ -88,5 +88,5 @@ Me chamo Davi de Andrade Cavalcante, tenho 18 anos e eu nasci e moro no Rio de J
     alt="Github Stats" 
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavicavalcante&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdavicavalcante&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
 />
